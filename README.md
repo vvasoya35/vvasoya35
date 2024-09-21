@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on data<br>👯 I’m looking to collaborate on <br>🌱 I’m currently learning more about tech<br>💬 Ask me about Python development<br>⚡ Fun fact 
+🔭 I’m currently working on data<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning more about tech<br>💬 Ask me about Python development<br>⚡ Fun fact 
 
 
 ## 🌐 Socials:
